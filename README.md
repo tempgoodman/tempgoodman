@@ -5,7 +5,7 @@
 I am a Software Engineer with over **10 years of experience** designing, building, and scaling web applications and distributed systems. I specialize in bridging the gap between robust backend architectures and seamless frontend user experiences. Currently based in the UK, I am focused on cloud-native system design and advancing towards Tech Lead roles.
 
 ### 💻 Tech Stack & Tools
-*   **Backend & APIs:** .NET Core / C# | Node.js | RESTful API Design | Microservices | GraphQL | Nextjs | MQTT
+*   **Backend & APIs:** .NET Core / C# | Node.js | RESTful API Design | Microservices | GraphQL | Nextjs | MQTT | Python
 *   **Frontend:** React |  Nextjs JavaScript / TypeScript  | WebSocket
 *   **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda) | Docker | GitHub Actions (CI/CD)
 *   **Databases:** SQL Server | PostgreSQL | MongoDB | Redis
